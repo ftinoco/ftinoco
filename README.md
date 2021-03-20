@@ -1,6 +1,7 @@
 ### Hi there
 
-<img src="https://drive.google.com/file/d/1deA925vfIMNj3HMxRSqK6zq6oRLmM_8r/view" /> 
+<img src="https://drive.google.com/file/d/1deA925vfIMNj3HMxRSqK6zq6oRLmM_8r/preview" /> 
+<iframe src="https://drive.google.com/file/d/1deA925vfIMNj3HMxRSqK6zq6oRLmM_8r/preview" width="640" height="480"></iframe>
 
 ### About me
 
