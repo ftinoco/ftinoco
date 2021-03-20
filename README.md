@@ -1,3 +1,9 @@
+### Hi there
+
+### About me
+
+I'm a technology enthusiastic, always looking for what to learn. Passionate for the web develop.
+
 - 👋 Hi, I’m Fernando Tinoco
 - 👀 I’m interested in Software development ...
 - 🌱 I’m currently learning python and reactJS...
