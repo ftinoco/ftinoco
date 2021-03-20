@@ -1,6 +1,6 @@
 ### Hi there
 
-<img src="https://photos.app.goo.gl/JmHGf8wY4dWmoFELA" />
+<img src="https://drive.google.com/file/d/1deA925vfIMNj3HMxRSqK6zq6oRLmM_8r/view?usp=sharing" />
 
 ### About me
 
