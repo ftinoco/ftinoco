@@ -1,7 +1,7 @@
 ### Hi there! I am Fernando Tinoco. Software Developer and Programmer Analyst.
 ### About me
 
- 💻 I'm a technology enthusiast, I'm always looking for what to learn. Passionate for the web develop. I have developed in many platform and programming lenguage but my strength are web develop and .NET technologies, I have been part of both back end and front end. I'm currently focused on learning python and ReactJS.
+ 💻 I'm a technology enthusiast, I'm always looking for what to learn. Passionate for the web develop. I have developed in many platform and programming lenguage but my strength are web develop and .NET technologies, I have been part of both back end and front end. I'm currently focused on learning Python and ReactJS.
 
  🎧 I love enjoying a good coffee, watching movies, series and anime of course.
 
