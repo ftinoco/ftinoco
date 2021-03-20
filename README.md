@@ -1,6 +1,6 @@
-### Hi there
+### Hi there!
 
-<img align="left"  src="https://ftinoco.github.io/images/DSC_0417.jpg" width="250" height="320" /> 
+<img align="left"  src="https://ftinoco.github.io/images/DSC_0417.jpg" width="250" height="350" /> 
 
 ### About me
 
