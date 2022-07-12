@@ -26,6 +26,9 @@ I'm a Software Developer based in Nicaragua :nicaragua:. I'm passionate about pr
   <a href="https://twitter.com/fertc45" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
   </a>
+  <a href="https://dev.to/ftinoco" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" />
+  </a>
   </p>
 
 ### Github Stats
