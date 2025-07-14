@@ -1,5 +1,8 @@
 ## Hi there 👋
-![Snake animation](https://github.com/ftinoco/ftinoco/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Snake eating my contributions
+
+![snake gif](https://github.com/ftinoco/snk/raw/output/github-contribution-grid-snake.svg)
+
 <!--
 **ftinoco/ftinoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
